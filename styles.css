@@ -33,7 +33,7 @@ input {
 
 /*allows for changing the input placeholder text color*/
 input::placeholder {
-    color: #f0f0f0;
+    color: #aaaaaa;
 }
 
 /*changing the size and position*/
@@ -81,7 +81,7 @@ label {
 
 input [type="checkbox"] {
     background: white;
-    border: #7e7e7e 1px solid;
+    border: #aaaaaa 1px solid;
 }
 
 .check {
