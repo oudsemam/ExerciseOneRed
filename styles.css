@@ -8,14 +8,14 @@ body {
 .optionOne {
     background-color: #e6e3e3;
     color: gray;
-    height: 250px;
+    height: 275px;
     width: 400px;
     position: fixed;
     box-shadow: 1px 1px 10px #888888;
     margin: 100px;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
 }
 
 h1 {
